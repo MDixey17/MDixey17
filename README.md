@@ -9,6 +9,8 @@ I'm a Software Engineer passionate about building high-performance applications 
 
 Outside of work, I’m building projects at the intersection of **sports, technology, and data visualization**.
 
+For a full list of my experiences and projects, please check out my [Portfolio Website!](https://mdixey17.github.io/matt-dixey/#/)
+
 ---
 
 ## 📱 Featured Project
