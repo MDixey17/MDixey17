@@ -26,7 +26,7 @@ A trading card companion app for Formula 1 fans, available on the iOS App Store.
 ## 💡 Other Projects
 - ⚡ **(In Development) Formula 1 Live Strategy Predictor** – Real-time race data using FastF1 + FastAPI
 - 🎮 **(In Development) UE5 Zero-Gravity Shooter** – Multiplayer prototype built with Blueprints
-- 🎈 **Celebration Reminder Mobile App** - Notification app of family and friends' special events using TypeScript + Expo
+- 🎈 **Celebration Reminder Mobile App** - Notification app of special events using TypeScript + Expo
   - [App Store Link](https://apps.apple.com/us/app/celebration-reminder/id6744367631) | [Repository](https://github.com/MDixey17/celebrate-reminder-app)
 - 🧩 **React Component Library** – TypeScript + Storybook + Rollup design system
   - [NPM Page](https://www.npmjs.com/package/blue-titanium-ui) | [Repository](https://github.com/MDixey17/blue-titanium)
@@ -35,7 +35,7 @@ A trading card companion app for Formula 1 fans, available on the iOS App Store.
 
 ## 💻 Tech Stack
 
-### Languages & Frameworks
+### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
@@ -59,7 +59,11 @@ A trading card companion app for Formula 1 fans, available on the iOS App Store.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
 
 ---
 
